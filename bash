@@ -13,3 +13,6 @@ npm install express cors dotenv pg
 npm install --save-dev typescript ts-node nodemon @types/node @types/express
 npx tsc --init
 npm run dev
+git init
+git add .
+git commit -m "Initial PMCosmetics Hub API skeleton"
